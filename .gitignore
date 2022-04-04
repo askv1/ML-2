@@ -1,2 +1,3 @@
 
 *.sqlite
+tmp/player_attributes.csv
