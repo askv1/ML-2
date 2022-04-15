@@ -1,3 +1,6 @@
 
 *.sqlite
 tmp/player_attributes.csv
+tests.py
+*.csv
+__pycache__/tests.cpython-310.pyc
