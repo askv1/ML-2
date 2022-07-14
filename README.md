@@ -1,1 +1,1 @@
-# ML-2
+Rolling Scopes Machine Learning Course
